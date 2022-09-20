@@ -1,0 +1,41 @@
+# scrape regional 4w and kenya 4w vax data
+
+name: kobo-data-scraper
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # runs everyday at 8.00 : min hour day(month) month day(week)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # install the python version needed
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: execute py script # run run.py
+        env: 
+          CS_KOBO_TOKEN: ${{ secrets.CS_KOBO_TOKEN }}
+        run: python run.py
+          
+      - name: commit files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Data successfully updated
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 

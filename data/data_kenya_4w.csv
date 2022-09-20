@@ -1,0 +1,961 @@
+,_id,who/reporting_partner,partner_001/Org/name_org,partner_001/Org/Acr_org,partner_001/Contact/name_contact,partner_001/Contact/role,partner_001/Contact/num_contact,partner_001/Contact/email_contact,activity,county_code
+0,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,coordination,KE037
+1,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE034
+5,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE030
+6,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE043
+7,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE030
+8,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE030
+30,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE034
+34,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE030
+35,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,training,KE022
+36,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE030
+37,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE030
+58,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,delivery,KE037
+64,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,delivery,KE022
+66,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE030
+87,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,logistics,KE037
+88,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE034
+91,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE030
+95,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE030
+116,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,data,KE003
+120,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE030
+122,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,data,KE022
+124,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE030
+146,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE022
+150,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE030
+151,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,rcce,KE022
+153,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE030
+154,297551373,partner,USAID Fahari ya Jamii,,Dr. Resom Marima,Chief of Party,0721952652,reson@uonbi.ac.ke,rcce,KE034
+155,297552998,partner,USAID Tujenge Jamii Activity,UTJ,Dr. Moses Kitheka,Chief of Party,0722837216,mkitheka@usaidtujengejamii.org,rcce,KE031
+156,297554326,partner,USAID Stawisha Pwani,,Dr. Patrick Oyaro,Chief of Party,0721245564,Patrick.oyaro@lvcthealth.org,rcce,KE003
+157,297555790,partner,USAID Dumisha Afya,,Evelyne Ashiono,Interim Chief of Party,0722420849,eashiono@ampath.or.ke,rcce,KE039
+158,297557765,partner,USAID USAID4TheChild Program,,Kenneth Otieno,Deputy Chief of Party,0725681725,kotieno@ampathplus.or.ke,rcce,KE037
+159,297558630,partner,USAID AMPATH Uzima,,Prof. Kimaiyo,Chief of Party,0722284916,skimaiyo@ampathplus.or.ke,rcce,KE026
+160,297559472,partner,USAID IMARISHA JAMII Program,,Dr Chris Barasa,Chief of Party,0782 419 651,chris.barasa@imarishajamii.org,rcce,KE023
+161,297560339,partner,USAID Nuru Ya Mtoto,,Jackson Thoya,Chief of Party,0798300080,jthoya@path.org,rcce,KE043
+162,297561407,partner,Tumikia Mtoto,,Roselyn Were,,+ 254 722 388 399,roselyn_were@wvi.org,rcce,KE022
+163,297563171,partner,USAID Jamii Tekelezi,,Dr. Mutugi Muriithi,Chief of Party,0796-103952,mmuriithi@chak.or.ke,rcce,KE012
+164,297563172,partner,USAID4BetterHealth,,Luciana Koske,Deputy Chief of Party,+254 726 640 610,lkoske@globalcommunities.org,rcce,KE015
+165,297564558,partner,USAID Tujitegemee,,Juma Mwarika,Chief of Party,0711632471,jmwarika@amurtafrica.org,rcce,KE001
+166,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE030
+167,297570038,partner,Kenya Red Cross Society,KRCS,Dr. Annette Msambeni,Chief of Party,0723 389 156,msabeni.annette@redcross.or.ke,rcce,KE028
+168,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE034
+169,297573035,partner,World Relief,,TBC,,TBC,TBC,rcce,KE034
+170,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE030
+171,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE040
+172,297577695,partner,Global Implementation Solutions,GIS,Ms. Kaitlin Sandhaus,CEO and Executive Director,+254.714.788.324,ksandhaus@gisworldwide.org,rcce,KE022
+173,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE039
+175,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE034
+207,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE030
+209,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,monitoring_eval,KE022
+211,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE030
+261,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,coordination,KE047
+262,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE022
+266,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE036
+267,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE034
+268,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE036
+269,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE036
+291,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE022
+295,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE036
+296,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,training,KE047
+297,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE036
+298,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE036
+319,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,delivery,KE047
+325,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,delivery,KE047
+327,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE036
+348,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,logistics,KE047
+349,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE022
+352,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE036
+356,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE036
+377,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,data,KE047
+381,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE036
+383,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,data,KE047
+385,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE036
+407,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE003
+411,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE036
+412,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,rcce,KE047
+414,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE036
+415,297551373,partner,USAID Fahari ya Jamii,,Dr. Resom Marima,Chief of Party,0721952652,reson@uonbi.ac.ke,rcce,KE047
+416,297552998,partner,USAID Tujenge Jamii Activity,UTJ,Dr. Moses Kitheka,Chief of Party,0722837216,mkitheka@usaidtujengejamii.org,rcce,KE032
+417,297554326,partner,USAID Stawisha Pwani,,Dr. Patrick Oyaro,Chief of Party,0721245564,Patrick.oyaro@lvcthealth.org,rcce,KE002
+418,297555790,partner,USAID Dumisha Afya,,Evelyne Ashiono,Interim Chief of Party,0722420849,eashiono@ampath.or.ke,rcce,KE040
+419,297557765,partner,USAID USAID4TheChild Program,,Kenneth Otieno,Deputy Chief of Party,0725681725,kotieno@ampathplus.or.ke,rcce,KE042
+420,297558630,partner,USAID AMPATH Uzima,,Prof. Kimaiyo,Chief of Party,0722284916,skimaiyo@ampathplus.or.ke,rcce,KE027
+422,297560339,partner,USAID Nuru Ya Mtoto,,Jackson Thoya,Chief of Party,0798300080,jthoya@path.org,rcce,KE045
+423,297561407,partner,Tumikia Mtoto,,Roselyn Were,,+ 254 722 388 399,roselyn_were@wvi.org,rcce,KE047
+424,297563171,partner,USAID Jamii Tekelezi,,Dr. Mutugi Muriithi,Chief of Party,0796-103952,mmuriithi@chak.or.ke,rcce,KE013
+425,297563172,partner,USAID4BetterHealth,,Luciana Koske,Deputy Chief of Party,+254 726 640 610,lkoske@globalcommunities.org,rcce,KE016
+427,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE036
+428,297570038,partner,Kenya Red Cross Society,KRCS,Dr. Annette Msambeni,Chief of Party,0723 389 156,msabeni.annette@redcross.or.ke,rcce,KE035
+429,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE022
+430,297573035,partner,World Relief,,TBC,,TBC,TBC,rcce,KE032
+431,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE036
+432,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE043
+433,297577695,partner,Global Implementation Solutions,GIS,Ms. Kaitlin Sandhaus,CEO and Executive Director,+254.714.788.324,ksandhaus@gisworldwide.org,rcce,KE045
+434,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE043
+436,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE022
+468,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE036
+470,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,monitoring_eval,KE047
+472,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE036
+522,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,coordination,KE026
+523,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE003
+527,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE039
+528,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE022
+529,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE039
+530,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE039
+552,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE003
+556,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE039
+557,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,training,KE032
+558,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE039
+559,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE039
+580,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,delivery,KE026
+586,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,delivery,KE032
+588,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE039
+609,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,logistics,KE026
+610,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE003
+613,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE039
+617,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE039
+638,281557207,partner,USAID Momentum Routine Immunization Transformation and Equity,M-RITE,Isaac Mugoya,Country Project Lead,0721203157,isaac_mugoya@ke.jsi.com,data,KE026
+642,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE039
+644,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,data,KE032
+646,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE039
+668,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE045
+672,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE039
+673,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,rcce,KE032
+675,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE039
+678,297554326,partner,USAID Stawisha Pwani,,Dr. Patrick Oyaro,Chief of Party,0721245564,Patrick.oyaro@lvcthealth.org,rcce,KE001
+680,297557765,partner,USAID USAID4TheChild Program,,Kenneth Otieno,Deputy Chief of Party,0725681725,kotieno@ampathplus.or.ke,rcce,KE041
+683,297560339,partner,USAID Nuru Ya Mtoto,,Jackson Thoya,Chief of Party,0798300080,jthoya@path.org,rcce,KE044
+686,297563172,partner,USAID4BetterHealth,,Luciana Koske,Deputy Chief of Party,+254 726 640 610,lkoske@globalcommunities.org,rcce,KE017
+688,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE039
+689,297570038,partner,Kenya Red Cross Society,KRCS,Dr. Annette Msambeni,Chief of Party,0723 389 156,msabeni.annette@redcross.or.ke,rcce,KE017
+690,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE003
+691,297573035,partner,World Relief,,TBC,,TBC,TBC,rcce,KE023
+692,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE039
+693,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE037
+694,297577695,partner,Global Implementation Solutions,GIS,Ms. Kaitlin Sandhaus,CEO and Executive Director,+254.714.788.324,ksandhaus@gisworldwide.org,rcce,KE017
+695,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE003
+697,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE003
+729,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE039
+731,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,monitoring_eval,KE032
+733,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE039
+784,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE042
+788,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE040
+789,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE003
+790,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE040
+791,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE040
+813,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE042
+817,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE040
+818,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,training,KE019
+819,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE040
+820,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE040
+847,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,delivery,KE019
+849,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE040
+871,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE042
+874,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE040
+878,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE040
+903,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE040
+905,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,data,KE019
+907,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE040
+929,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE042
+933,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE040
+934,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,rcce,KE019
+936,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE040
+939,297554326,partner,USAID Stawisha Pwani,,Dr. Patrick Oyaro,Chief of Party,0721245564,Patrick.oyaro@lvcthealth.org,rcce,KE006
+947,297563172,partner,USAID4BetterHealth,,Luciana Koske,Deputy Chief of Party,+254 726 640 610,lkoske@globalcommunities.org,rcce,KE021
+949,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE040
+951,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE042
+953,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE040
+954,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE022
+955,297577695,partner,Global Implementation Solutions,GIS,Ms. Kaitlin Sandhaus,CEO and Executive Director,+254.714.788.324,ksandhaus@gisworldwide.org,rcce,KE001
+956,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE017
+958,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE042
+990,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE040
+992,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,monitoring_eval,KE019
+994,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE040
+1045,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE016
+1049,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE028
+1050,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE045
+1051,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE028
+1052,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE028
+1074,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE016
+1078,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE028
+1080,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE028
+1081,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE028
+1110,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE028
+1132,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE016
+1135,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE028
+1139,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE028
+1164,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE028
+1168,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE028
+1190,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE016
+1194,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE028
+1197,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE028
+1208,297563172,partner,USAID4BetterHealth,,Luciana Koske,Deputy Chief of Party,+254 726 640 610,lkoske@globalcommunities.org,rcce,KE032
+1210,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE028
+1212,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE016
+1214,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE028
+1215,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE045
+1216,297577695,partner,Global Implementation Solutions,GIS,Ms. Kaitlin Sandhaus,CEO and Executive Director,+254.714.788.324,ksandhaus@gisworldwide.org,rcce,KE021
+1217,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE032
+1219,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE016
+1251,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE028
+1255,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE028
+1306,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE021
+1310,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE014
+1311,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE016
+1312,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE014
+1313,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE014
+1335,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE021
+1339,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE014
+1341,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE014
+1342,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE014
+1371,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE014
+1393,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE021
+1396,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE014
+1400,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE014
+1425,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE014
+1429,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE014
+1451,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE021
+1455,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE014
+1458,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE014
+1471,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE014
+1473,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE047
+1475,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE014
+1476,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE042
+1478,303832654,partner,Centre for Behaviour Change Communication,CBCC,Catherline Lengewa,Partnership Director,0726854253,"clengewa@centreforbcc,com",rcce,KE023
+1480,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE021
+1512,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE014
+1516,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE014
+1567,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE047
+1571,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE007
+1572,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE010
+1573,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE007
+1574,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE007
+1596,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE047
+1600,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE007
+1602,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE007
+1603,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE007
+1632,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE007
+1654,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE047
+1657,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE007
+1661,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE007
+1686,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE007
+1690,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE007
+1712,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE047
+1716,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE007
+1719,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE007
+1732,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE007
+1734,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE019
+1736,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE007
+1737,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE016
+1741,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE047
+1773,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE007
+1777,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE007
+1828,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE019
+1832,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE043
+1833,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE047
+1834,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE043
+1835,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE043
+1857,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE019
+1861,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE043
+1863,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE043
+1864,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE043
+1893,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE043
+1915,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE019
+1918,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE043
+1922,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE043
+1947,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE043
+1951,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE043
+1973,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE019
+1977,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE043
+1980,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE043
+1993,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE043
+1995,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE023
+1997,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE043
+1998,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE017
+2002,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE019
+2034,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE043
+2038,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE043
+2089,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE023
+2093,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE011
+2094,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE032
+2095,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE011
+2096,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE011
+2118,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE023
+2122,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE011
+2124,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE011
+2125,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE011
+2154,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE011
+2176,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE023
+2179,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE011
+2183,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE011
+2208,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE011
+2212,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE011
+2234,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE023
+2238,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE011
+2241,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE011
+2254,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE011
+2256,297571954,partner,"Medicines, Technology and Pharmaceutical Services",MTaPS,Ndinda Kusu,Country Project Director,+254720735456,nkusu@mtapsprogram.org,rcce,KE027
+2258,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE011
+2259,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE044
+2263,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE023
+2295,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE011
+2299,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE011
+2350,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,coordination,KE027
+2354,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE034
+2355,287469499,partner,Amref Health Africa,Amref,Sarah Kosgei,Programme Manager - Public Health Emergency Response,0721595408,sarah.kosgei@amref.org,coordination,KE019
+2356,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE034
+2357,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE034
+2379,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,training,KE027
+2383,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE034
+2385,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE034
+2386,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE034
+2415,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE034
+2437,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,logistics,KE027
+2440,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE034
+2444,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE034
+2469,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE034
+2473,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE034
+2495,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,rcce,KE027
+2499,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE034
+2502,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE034
+2515,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE034
+2519,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE034
+2520,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE001
+2524,281677973,partner,Management Sciences for Health,MSH,Ndinda Kusu,Country Project Director,+254 720735456,nkusu@mtapsprogram.org,regulatory,KE027
+2556,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE034
+2560,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE034
+2615,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE037
+2617,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE037
+2618,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE037
+2644,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE037
+2646,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE037
+2647,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE037
+2676,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE037
+2701,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE037
+2705,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE037
+2730,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE037
+2734,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE037
+2760,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE037
+2763,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE037
+2776,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE037
+2780,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE037
+2781,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE021
+2817,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE037
+2821,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE037
+2876,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE035
+2878,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE035
+2879,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE035
+2905,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE035
+2907,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE035
+2908,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE035
+2937,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE035
+2962,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE035
+2966,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE035
+2991,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE035
+2995,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE035
+3021,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE035
+3024,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE035
+3037,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE035
+3041,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE035
+3042,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE047
+3078,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE035
+3082,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE035
+3137,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE022
+3139,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE022
+3140,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE022
+3166,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE022
+3168,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE022
+3169,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE022
+3198,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE022
+3223,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE022
+3227,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE022
+3252,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE022
+3256,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE022
+3282,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE022
+3285,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE022
+3298,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE022
+3302,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE022
+3303,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE019
+3339,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE022
+3343,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE022
+3398,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE003
+3400,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE003
+3401,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE003
+3427,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE003
+3429,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE003
+3430,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE003
+3459,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE003
+3484,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE003
+3488,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE003
+3513,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE003
+3517,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE003
+3543,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE003
+3546,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE003
+3559,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE003
+3563,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE003
+3564,297576953,partner,"Center for Health, Education, and Biosecurity at University of Maryland",CIHEB,Dr. Emily Koech,Chief Executive Officer,+254 722843207,ekoech@cihebkenya.org,rcce,KE041
+3600,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE003
+3604,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE003
+3659,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE020
+3661,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE020
+3662,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE020
+3688,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE020
+3690,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE020
+3691,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE020
+3720,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE020
+3745,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE020
+3749,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE020
+3774,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE020
+3778,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE020
+3804,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE020
+3807,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE020
+3820,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE020
+3824,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE020
+3861,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE020
+3865,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE020
+3920,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE045
+3922,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE045
+3923,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE045
+3949,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE045
+3951,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE045
+3952,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE045
+3981,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE045
+4006,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE045
+4010,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE045
+4035,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE045
+4039,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE045
+4065,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE045
+4068,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE045
+4081,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE045
+4085,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE045
+4122,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE045
+4126,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE045
+4181,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE042
+4183,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE042
+4184,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE042
+4210,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE042
+4212,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE042
+4213,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE042
+4242,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE042
+4267,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE042
+4271,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE042
+4296,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE042
+4300,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE042
+4326,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE042
+4329,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE042
+4342,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE042
+4346,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE042
+4383,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE042
+4387,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE042
+4442,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE015
+4444,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE015
+4445,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE015
+4471,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE015
+4473,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE015
+4474,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE015
+4503,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE015
+4528,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE015
+4532,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE015
+4557,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE015
+4561,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE015
+4587,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE015
+4590,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE015
+4603,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE015
+4607,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE015
+4644,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE015
+4648,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE015
+4703,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE002
+4705,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE002
+4706,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE002
+4732,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE002
+4734,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE002
+4735,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE002
+4764,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE002
+4789,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE002
+4793,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE002
+4818,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE002
+4822,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE002
+4848,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE002
+4851,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE002
+4864,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE002
+4868,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE002
+4905,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE002
+4909,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE002
+4964,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE031
+4966,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE031
+4967,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE031
+4993,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE031
+4995,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE031
+4996,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE031
+5025,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE031
+5050,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE031
+5054,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE031
+5079,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE031
+5083,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE031
+5109,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE031
+5112,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE031
+5125,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE031
+5129,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE031
+5166,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE031
+5170,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE031
+5225,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE005
+5227,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE005
+5228,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE005
+5254,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE005
+5256,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE005
+5257,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE005
+5286,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE005
+5311,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE005
+5315,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE005
+5340,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE005
+5344,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE005
+5370,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE005
+5373,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE005
+5386,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE005
+5390,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE005
+5427,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE005
+5431,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE005
+5486,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE016
+5488,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE016
+5489,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE016
+5515,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE016
+5517,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE016
+5518,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE016
+5547,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE016
+5572,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE016
+5576,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE016
+5601,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE016
+5605,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE016
+5631,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE016
+5634,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE016
+5647,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE016
+5651,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE016
+5688,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE016
+5692,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE016
+5747,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE017
+5749,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE017
+5750,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE017
+5776,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE017
+5778,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE017
+5779,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE017
+5808,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE017
+5833,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE017
+5837,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE017
+5862,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE017
+5866,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE017
+5892,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE017
+5895,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE017
+5908,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE017
+5912,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE017
+5949,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE017
+5953,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE017
+6008,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE009
+6010,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE009
+6011,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE009
+6037,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE009
+6039,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE009
+6040,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE009
+6069,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE009
+6094,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE009
+6098,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE009
+6123,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE009
+6127,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE009
+6153,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE009
+6156,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE009
+6169,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE009
+6173,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE009
+6210,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE009
+6214,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE009
+6269,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE010
+6271,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE010
+6272,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE010
+6298,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE010
+6300,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE010
+6301,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE010
+6330,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE010
+6355,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE010
+6359,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE010
+6384,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE010
+6388,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE010
+6414,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE010
+6417,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE010
+6430,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE010
+6434,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE010
+6471,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE010
+6475,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE010
+6530,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE012
+6532,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE012
+6533,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE012
+6559,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE012
+6561,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE012
+6562,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE012
+6591,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE012
+6616,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE012
+6620,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE012
+6645,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE012
+6649,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE012
+6675,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE012
+6678,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE012
+6691,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE012
+6695,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE012
+6732,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE012
+6736,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE012
+6791,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE044
+6793,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE044
+6794,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE044
+6820,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE044
+6822,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE044
+6823,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE044
+6852,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE044
+6877,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE044
+6881,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE044
+6906,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE044
+6910,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE044
+6936,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE044
+6939,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE044
+6952,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE044
+6956,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE044
+6993,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE044
+6997,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE044
+7052,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE001
+7054,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE001
+7055,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE001
+7081,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE001
+7083,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE001
+7084,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE001
+7113,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE001
+7138,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE001
+7142,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE001
+7167,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE001
+7171,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE001
+7197,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE001
+7200,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE001
+7213,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE001
+7217,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE001
+7254,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE001
+7258,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE001
+7313,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE021
+7315,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE021
+7316,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE021
+7342,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE021
+7344,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE021
+7345,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE021
+7374,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE021
+7399,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE021
+7403,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE021
+7428,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE021
+7432,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE021
+7458,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE021
+7461,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE021
+7474,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE021
+7478,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE021
+7515,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE021
+7519,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE021
+7574,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE047
+7576,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE047
+7577,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE047
+7603,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE047
+7605,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE047
+7606,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE047
+7635,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE047
+7660,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE047
+7664,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE047
+7689,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE047
+7693,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE047
+7719,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE047
+7722,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE047
+7735,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE047
+7739,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE047
+7776,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE047
+7780,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE047
+7835,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE032
+7837,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE032
+7838,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE032
+7864,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE032
+7866,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE032
+7867,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE032
+7896,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE032
+7921,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE032
+7925,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE032
+7950,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE032
+7954,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE032
+7980,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE032
+7983,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE032
+7996,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE032
+8000,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE032
+8037,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE032
+8041,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE032
+8096,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE029
+8098,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE029
+8099,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE029
+8125,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE029
+8127,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE029
+8128,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE029
+8157,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE029
+8182,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE029
+8186,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE029
+8211,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE029
+8215,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE029
+8241,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE029
+8244,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE029
+8257,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE029
+8261,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE029
+8298,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE029
+8302,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE029
+8357,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE033
+8359,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE033
+8360,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE033
+8386,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE033
+8388,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE033
+8389,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE033
+8418,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE033
+8443,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE033
+8447,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE033
+8472,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE033
+8476,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE033
+8502,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE033
+8505,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE033
+8518,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE033
+8522,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE033
+8559,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE033
+8563,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE033
+8618,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE046
+8620,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE046
+8621,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE046
+8647,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE046
+8649,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE046
+8650,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE046
+8679,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE046
+8704,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE046
+8708,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE046
+8733,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE046
+8737,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE046
+8763,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE046
+8766,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE046
+8779,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE046
+8783,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE046
+8820,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE046
+8824,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE046
+8879,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE018
+8881,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE018
+8882,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE018
+8908,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE018
+8910,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE018
+8911,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE018
+8940,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE018
+8965,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE018
+8969,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE018
+8994,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE018
+8998,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE018
+9024,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE018
+9027,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE018
+9040,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE018
+9044,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE018
+9081,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE018
+9085,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE018
+9140,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE019
+9142,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE019
+9143,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE019
+9169,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE019
+9171,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE019
+9172,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE019
+9201,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE019
+9226,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE019
+9230,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE019
+9255,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE019
+9259,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE019
+9285,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE019
+9288,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE019
+9301,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE019
+9305,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE019
+9342,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE019
+9346,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE019
+9401,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE025
+9403,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE025
+9404,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE025
+9430,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE025
+9432,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE025
+9433,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE025
+9462,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE025
+9487,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE025
+9491,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE025
+9516,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE025
+9520,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE025
+9546,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE025
+9549,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE025
+9562,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE025
+9566,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE025
+9603,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE025
+9607,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE025
+9662,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE041
+9664,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE041
+9665,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE041
+9691,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE041
+9693,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE041
+9694,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE041
+9723,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE041
+9748,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE041
+9752,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE041
+9777,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE041
+9781,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE041
+9807,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE041
+9810,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE041
+9823,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE041
+9827,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE041
+9864,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE041
+9868,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE041
+9923,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE006
+9925,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE006
+9926,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE006
+9952,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE006
+9954,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE006
+9955,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE006
+9984,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE006
+10009,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE006
+10013,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE006
+10038,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE006
+10042,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE006
+10068,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE006
+10071,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE006
+10084,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE006
+10088,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE006
+10125,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE006
+10129,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE006
+10184,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE004
+10186,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE004
+10187,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE004
+10213,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE004
+10215,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE004
+10216,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE004
+10245,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE004
+10270,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE004
+10274,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE004
+10299,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE004
+10303,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE004
+10329,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE004
+10332,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE004
+10345,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE004
+10349,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE004
+10386,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE004
+10390,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE004
+10445,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE013
+10447,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE013
+10448,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE013
+10474,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE013
+10476,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE013
+10477,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE013
+10506,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE013
+10531,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE013
+10535,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE013
+10560,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE013
+10564,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE013
+10590,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE013
+10593,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE013
+10606,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE013
+10610,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE013
+10647,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE013
+10651,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE013
+10706,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE026
+10708,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE026
+10709,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE026
+10735,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE026
+10737,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE026
+10738,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE026
+10767,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE026
+10792,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE026
+10796,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE026
+10821,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE026
+10825,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE026
+10851,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE026
+10854,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE026
+10867,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE026
+10871,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE026
+10908,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE026
+10912,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE026
+10967,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE023
+10969,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE023
+10970,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE023
+10996,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE023
+10998,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE023
+10999,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE023
+11028,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE023
+11053,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE023
+11057,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE023
+11082,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE023
+11086,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE023
+11112,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE023
+11115,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE023
+11128,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE023
+11132,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE023
+11169,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE023
+11173,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE023
+11228,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE027
+11230,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE027
+11231,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE027
+11257,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE027
+11259,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE027
+11260,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE027
+11289,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE027
+11314,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE027
+11318,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE027
+11343,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE027
+11347,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE027
+11373,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE027
+11376,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE027
+11389,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE027
+11393,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE027
+11430,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE027
+11434,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE027
+11489,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE038
+11491,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE038
+11492,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE038
+11518,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE038
+11520,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE038
+11521,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE038
+11550,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE038
+11575,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE038
+11579,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE038
+11604,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE038
+11608,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE038
+11634,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE038
+11637,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE038
+11650,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE038
+11654,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE038
+11691,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE038
+11695,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE038
+11750,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE008
+11752,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE008
+11753,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE008
+11779,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE008
+11781,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE008
+11782,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE008
+11811,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE008
+11836,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE008
+11840,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE008
+11865,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE008
+11869,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE008
+11895,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE008
+11898,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE008
+11911,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE008
+11915,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE008
+11952,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE008
+11956,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE008
+12011,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,coordination,KE024
+12013,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,coordination,KE024
+12014,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,coordination,KE024
+12040,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,training,KE024
+12042,289985856,partner,COVID VACCINE DELIVERY PARTNERSHIP  and WHO AFRO,COVDP WHO,AMANI ADIDJA,DESK OFFICER,+242068403560,aamani@who.int,training,KE024
+12043,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,training,KE024
+12072,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,delivery,KE024
+12097,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,logistics,KE024
+12101,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,logistics,KE024
+12126,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,data,KE024
+12130,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,data,KE024
+12156,287245119,partner,Tony Blair Institute for Global Change,TBI,Esther Mungai,Vaccine Delivery Advisor,0717786152,E.Mungai@institute.global,rcce,KE024
+12159,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,rcce,KE024
+12172,297569199,partner,Mission Support for Journey to Self Reliance Pivot,MSP,Maureen Ngesa,Communications Specialist,0722 618 797,mngesa@socha.net,rcce,KE024
+12176,297573513,partner,Afya Uwazi,,Ravi Ram,Chief of Party,0735285369,ravi.ram@kimetrica.com,rcce,KE024
+12213,287221788,partner,World Health Organization,WHO,Ezekiel Dauda Danjuma,Technical Officer-Country Support Team,0743515096,danjumae@who.int,monitoring_eval,KE024
+12217,290064863,partner,United Nations Children's Fund,UNICEF,Collins Tabu,Health (Immunization) Specialist,+254727771101,ctabu@unicef.org,monitoring_eval,KE024

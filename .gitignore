@@ -1,0 +1,7 @@
+__pycache__
+data/data_*.json
+data/.DS_Store
+scraper_kenya_4w.py 
+scraper_regional_4w.py 
+.github/workflows/kenya-4w-vax.yml
+.DS_Store
