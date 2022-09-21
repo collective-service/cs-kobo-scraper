@@ -9,6 +9,7 @@ base_url = "https://kc.humanitarianresponse.info/api/v1"
 forms_url = "https://kc.humanitarianresponse.info/api/v1/data"
 
 countriesArr = pd.read_csv('data/countries_list_iso.csv')
+mwi_cod_adm2 = pd.read_excel('data/mwi_adminboundaries_tabulardata.xlsx', sheet_name="Admin2")
 
 
 def getDataById(formID, dataName):
@@ -49,7 +50,7 @@ def getUsefullColumns(df):
        '_submission_time', '_tags', '_notes', '_submitted_by',
        '_validation_status.timestamp', '_validation_status.uid',
        '_validation_status.by_whom', '_validation_status.color',
-       '_validation_status.label', '__version__','meta/instanceID','script']
+       '_validation_status.label', '__version__','meta/instanceID','script', 'meta/deprecatedID']
     df_cols = df.columns
     for c in df_cols:
         if c not in kobo_meta_cols:
@@ -183,4 +184,61 @@ def getKenya4WData():
 
     return 
 
+def getMalawi4WData():
+    malawi_4w_id = "1194685"
+    dataName = "data_malawi_4w"
+    getDataById(malawi_4w_id, dataName)
 
+    with open('data/'+dataName+'.json') as f:
+        jsonData = json.load(f)
+    
+    df = pd.json_normalize(jsonData["data"])
+
+    # if no submission is unapprouved the column doesn't exist so ..
+    try:
+        df = df[df["_validation_status.label"] != "Not Approved"]
+    except Exception as e:
+        print()
+
+    
+    keep_cols = getUsefullColumns(df)
+    df = df[keep_cols]
+    # clean columns
+    df["WHAT/activity_type"] = df["WHAT/activity_type"].apply(replaceValues, args=(" ", "|"))
+    df["WHAT/activities"] = df["WHAT/activities"].apply(replaceValues, args=(" ", "|"))
+    df["WHAT/population"] = df["WHAT/population"].apply(replaceValues, args=(" ", "|"))
+
+    adm2 = df['WHERE/admin2'].unique()
+    adm2Len = 0
+    for adm in adm2:
+        arr = adm.split(" ")
+        if len(arr) >= adm2Len : adm2Len = len(arr)
+
+    districtArr = []
+    i = 0
+    while i < adm2Len:
+        districtArr.append("district_"+str(i))
+        i +=1
+
+    df[districtArr] = df['WHERE/admin2'].str.split(" ", expand=True)
+
+    locationArr = ["WHERE/admin1", "WHERE/admin2"]
+    adm2_col_name = "Adm2"
+
+    melted = pd.melt(df,
+        id_vars=keep_cols,value_name=adm2_col_name, value_vars=districtArr)
+
+    clean_cols = keep_cols + [adm2_col_name]
+    for loc in locationArr:
+        clean_cols.remove(loc)
+    
+    melted = melted[clean_cols]
+
+    melted = melted[melted[adm2_col_name] != "nan"]
+    melted = melted[melted[adm2_col_name].notnull()]
+
+    melted = melted.merge(mwi_cod_adm2[["admin2Name_en","admin2Pcode", "admin1Name_en", "admin1Pcode"]], 
+        right_on="admin2Name_en", left_on=adm2_col_name)
+
+    melted.to_csv("data/"+dataName+".csv")
+    return 
