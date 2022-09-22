@@ -1,0 +1,27 @@
+,Code,Code_name,Value,Value_name
+0,broad_communication,Broad communication,mass_media,Mass media campaign
+1,broad_communication,Broad communication,shows,Interactive shows
+2,broad_communication,Broad communication,online_campaign,Digital / online campaign
+3,broad_communication,Broad communication,celebrity_engagement,Celebrity engagement
+4,community_outreach,Community outreach,Social_Mobilisation,Social Mobilisation
+5,community_outreach,Community outreach,Mobile_cinema_and_community_theater,Mobile cinema and community theater
+6,community_outreach,Community outreach,local_media_campaing,Local media campaign
+7,community_outreach,Community outreach,social_media_engagne,Social media engagement
+8,community_outreach,Community outreach,other_outreach_campaign,Other outreach campaign
+9,stakeholder_engagement,Stakeholder engagement,community_leaders_engagement,Community leaders engagement
+10,stakeholder_engagement,Stakeholder engagement,authorities_engagement,Authorities engagement
+11,stakeholder_engagement,Stakeholder engagement,communicating_with_practicians,Communicating with Practicians
+12,stakeholder_engagement,Stakeholder engagement,communication_with_media,Communication with Media
+13,community_feedback,Community Feedback,call_center_information_desk,Call center / information desk
+14,community_feedback,Community Feedback,suggestions_complains,Suggestions/complains
+15,community_feedback,Community Feedback,rumours_tracking,Rumours tracking
+16,community_feedback,Community Feedback,social_listening,Social listening
+17,community_feedback,Community Feedback,infodemic_management,Infodemic management
+18,coordination,Operational Social Science,coordination_mechanism_structure,Coordination mechanism/structure
+19,coordination,Operational Social Science,planning_and_monitoring,Planning and Monitoring
+20,coordination,Coordination,digital_tools_development,Digital tools development
+21,social_science,Coordination,qualitative_and_quantitative_research,Qualitative and quantitative research
+22,social_science,Coordination,data_collection_and_survey,Data collection and survey
+23,capacity_building,Capacity building,training_of_governance_and_partners_staff,Training  of governance and partners staff
+24,capacity_building,Capacity building,tools_guidelines_training_packages,"Tools, guidelines, training packages"
+25,capacity_building,Capacity building,training_of_community_health_workforce,Training of community health workforce
