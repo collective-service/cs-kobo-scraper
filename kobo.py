@@ -187,6 +187,7 @@ def getKenya4WData():
 def getMalawi4WData():
     malawi_4w_id = "1194685"
     dataName = "data_malawi_4w"
+    
     getDataById(malawi_4w_id, dataName)
 
     with open('data/'+dataName+'.json') as f:
@@ -204,9 +205,13 @@ def getMalawi4WData():
     keep_cols = getUsefullColumns(df)
     df = df[keep_cols]
     # clean columns
+    df["WHO/operation"] = df["WHO/operation"].apply(replaceValues, args=(" ", "|"))
     df["WHAT/activity_type"] = df["WHAT/activity_type"].apply(replaceValues, args=(" ", "|"))
     df["WHAT/activities"] = df["WHAT/activities"].apply(replaceValues, args=(" ", "|"))
     df["WHAT/population"] = df["WHAT/population"].apply(replaceValues, args=(" ", "|"))
+    df["WHAT/channels"] = df["WHAT/channels"].apply(replaceValues, args=(" ", "|"))
+    df["WHAT/lang"] = df["WHAT/lang"].apply(replaceValues, args=(" ", "|"))
+    df["WHAT/sectors"] = df["WHAT/sectors"].apply(replaceValues, args=(" ", "|"))
 
     adm2 = df['WHERE/admin2'].unique()
     adm2Len = 0
